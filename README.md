@@ -434,7 +434,7 @@ screenshotnya.
 
 - Halaman Ubah Artikel
 
-![Tugas](README_img/ubah.png)
+![Tugas](README_img/edit.png)
 
 - Halaman Hapus Artikel
 
