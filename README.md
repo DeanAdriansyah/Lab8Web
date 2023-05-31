@@ -390,7 +390,8 @@ public function delete($id)
 ---
 # <p align="center">Tugas</p>
 
-Pertanyaan dan Tugas
+##Pertanyaan dan Tugas
+
 <p>Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.</p>
 
 ## Laporan Praktikum
@@ -405,7 +406,7 @@ screenshotnya.
 ## Hasil Tugas
 
 - Jika ingin mengetahui lebih lengkap Code yang digunakan Bisa mengikuti Link Berikut: 
-  <a href="https://github.com/DeanAdriansyah/Lab7Web/tree/main/lab7_php_ci/ci4">
+  <a href="https://github.com/DeanAdriansyah/Lab8Web">
   <img alt="Dean Adriansyah | Github Code" src="https://img.shields.io/badge/%20Link%20Code-ci4-orange" />  
   </a>
 
@@ -443,3 +444,6 @@ screenshotnya.
 
 ![Tugas](README_img/tambah.png)
 
+
+---
+# <P align="center"> THANK YOU SO MUCH FOR YOUR ATTENTION!! SEE YOU SOON!!
